@@ -1,2 +1,2 @@
-# datasciencecoursera
-Just for assignment
+# Gen Bus 840
+Just for assignments
